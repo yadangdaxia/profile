@@ -72,6 +72,11 @@ h1 {
     display: inline;
     list-style: none;
 }
+.list-inline {
+  /* There is an automatic padding in lists */
+    padding: 0;
+}
+
 
 .img-circle {
   border-radius: 50%;
